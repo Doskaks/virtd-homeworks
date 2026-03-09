@@ -1,0 +1,49 @@
+{
+    "builders": [
+        {
+            "type": "yandex",
+            "token": "token",
+            "folder_id": "b1g3hnoudkl70j2fgeu2",
+            "zone": "ru-central1-a",
+            "image_name": "debian-11-with-docker-{{timestamp}}",
+            "image_description": "my custom debian with docker and tools",
+            "source_image_family": "debian-11",
+            "subnet_id": "e9bgvjm616a6pd8pjdj4",
+            "use_ipv4_nat": true,
+            "disk_type": "network-hdd",
+            "ssh_username": "debian"
+        }
+    ],
+   "provisioners": [
+    {
+        "type": "shell",
+        "inline": [
+            "echo '🚀 Starting system update and package installation...'",
+
+            "echo '🔧 Disabling bullseye-backports repository...'",
+            "sudo sed -i '/bullseye-backports/d' /etc/apt/sources.list",
+            "if [ -f /etc/apt/sources.list.d/debian.sources ]; then",
+            "  sudo sed -i '/bullseye-backports/d' /etc/apt/sources.list.d/debian.sources",
+            "fi",
+
+            "sudo apt update",
+
+            "echo '📦 Installing htop and tmux...'",
+            "sudo apt install -y htop tmux",
+
+            "echo '🐳 Installing Docker...'",
+            "curl -fsSL https://get.docker.com -o get-docker.sh",
+            "sudo sh get-docker.sh",
+
+            "sudo usermod -aG docker $USER",
+
+            "docker --version",
+            "docker compose version",
+            "htop --version",
+            "tmux -V",
+
+            "echo '🎉 All done!'"
+        ]
+    }
+    ]
+}
