@@ -32,13 +32,13 @@
 ## Решение 1
 
 VirtualBox:
-![VirtualBox]()
+![VirtualBox](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-02-iaac/src/VirtualBox.jpg)
 
 Vagrant:
-![Vagrant]()
+![Vagrant](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-02-iaac/src/Vagrant.jpg)
 
 Packer:
-![Packer]()
+![Packer](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-02-iaac/src/%D0%9E%D0%B1%D1%80%D0%B0%D0%B7.jpg)
 
 ## Задача 2
 
@@ -72,7 +72,7 @@ Error: The requested URL returned error: 404:
 ## Решение 2
 
 Vagrant+Docker:
-![Vagrant+Docker]()
+![Vagrant+Docker](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-02-iaac/src/Vagrant%2BDocker.jpg)
 
 
 ## Задача 3
@@ -87,3 +87,10 @@ Vagrant+Docker:
 7. Удалите ВМ и образ.
 8. **ВНИМАНИЕ!** Никогда не выкладываете oauth token от облака в git-репозиторий! Утечка секретного токена может привести к финансовым потерям. После выполнения задания обязательно удалите секретные данные из файла mydebian.json и mydebian.json.pkr.hcl. (замените содержимое токена на  "ххххх")
 9. В качестве ответа на задание  загрузите результирующий файл в ваш ЛК.
+
+## Решение 3
+
+![Образ](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-02-iaac/src/%D0%9E%D0%B1%D1%80%D0%B0%D0%B72.jpg)
+
+Файл:
+![Файл](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-02-iaac/mydebian2.json)
