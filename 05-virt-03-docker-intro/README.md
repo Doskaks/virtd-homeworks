@@ -50,15 +50,15 @@ Hey, Netology
 ## Решение 2
 
 Запуск docker образа:
-![Запуск docker образа]()
+![Запуск docker образа](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/%D0%97%D0%B0%D0%BF%D1%83%D1%81%D0%BA%20docker%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B0_1.jpg)
 
 Выполнение команды:
-![Выполнение команды]()
+![Выполнение команды](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B_2.jpg)
 
 Доступность страницы:
-![Доступность страницы]()
+![Доступность страницы](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/%D0%94%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_3.jpg)
 
-![Доступность страницы]()
+![Доступность страницы](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/%D0%94%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_3.1.jpg)
 
 
 ## Задача 3
@@ -79,19 +79,19 @@ Hey, Netology
 
 ## Решение 3
 
-![3_1-5 Выполение команд]()
+![3_1-5 Выполение команд](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/3_1-5%20%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4.jpg)
 
 Ctrl-C в docker attach отправляет сигнал завершения главному процессу контейнера, когда главный процесс завершается, контейнер останавливается
 
-![3_7 Изменение порта]()
+![3_7 Изменение порта](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/3_7%20%D0%98%D0%B7%D0%BC%D0%B5%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%BE%D1%80%D1%82%D0%B0.jpg)
 
-![3_8-9 Выполение команд]()
+![3_8-9 Выполение команд](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/3_8-9%20%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4.jpg)
 
-![3_10 Выполение команд]()
+![3_10 Выполение команд](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/3_10%20%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4.jpg)
 
 Проблема: контейнер слушает порт 81 внутри, внешний порт 8080 на хосте по-прежнему проброшен на порт 80 контейнера, при изменении внутреннего порта на 81, проброс порта 8080->80 перестает работать.
 
-![3_12 Выполение команд]()
+![3_12 Выполение команд](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/3_12%20%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4.jpg)
 
 
 ## Задача 4
@@ -108,11 +108,11 @@ Ctrl-C в docker attach отправляет сигнал завершения �
 
 ## Решение 4
 
-![4_1-2 Выполение команд]()
+![4_1-2 Выполение команд](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/4_1-2%20%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4.jpg)
 
-![4_3 Выполение команд]()
+![4_3 Выполение команд](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/4_3%20%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4.jpg)
 
-![4_4-5 Выполение команд]()
+![4_4-5 Выполение команд](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/4_4-5%20%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4.jpg)
 
 
 ## Задача 5
@@ -169,20 +169,20 @@ services:
 
 Был запущен файл compose.yaml, потому что Docker Compose по умолчанию ищет файлы в следующем порядке приоритета, compose.yaml (предпочтительный), а docker-compose.yaml (устаревший формат). Согласно документации Docker, compose.yaml является современным стандартным именем файла.
 
-![5_1.1 Выполение команд]()
+![5_1.1 Выполение команд](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/5_1%20%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4.jpg)
 
-![5_2 Выполение команд]()
+![5_2 Выполение команд](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/5_2%20%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4.jpg)
 
-![5_3 Выполение команд]()
+![5_3 Выполение команд](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/5_3%20%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4.jpg)
 
-![5_4 Выполение команд]()
+![5_4 Выполение команд](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/5_4%20%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4.jpg)
 
-![5_5 Выполение команд]()
+![5_5 Выполение команд](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/5_5%20%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4.jpg)
 
-![5_6 Выполение команд]()
+![5_6 Выполение команд](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/5_6%20%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4.jpg)
 
 
-![5_7.1 Выполение команд]()
+![5_7 Выполение команд](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/5_7%20%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4.jpg)
 
 Суть предупреждения:
     Docker Compose находит "осиротевшие контейнеры" (orphan containers) - это контейнеры, которые были созданы из предыдущей версии compose-файла, но отсутствуют в текущем compose-файле, после удаления compose.yaml текущий compose-файл больше не определяет сервисы portainer и registry, но контейнеры task5-portainer-1 и task5-registry-1 всё ещё существуют и работают.
