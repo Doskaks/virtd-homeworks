@@ -50,12 +50,15 @@ Hey, Netology
 ## Решение 2
 
 Запуск docker образа:
+
 ![Запуск docker образа](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/%D0%97%D0%B0%D0%BF%D1%83%D1%81%D0%BA%20docker%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B0_1.jpg)
 
 Выполнение команды:
+
 ![Выполнение команды](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D1%8B_2.jpg)
 
 Доступность страницы:
+
 ![Доступность страницы](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/%D0%94%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_3.jpg)
 
 ![Доступность страницы](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-03-docker-intro/%D0%94%D0%BE%D1%81%D1%82%D1%83%D0%BF%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B_3.1.jpg)
