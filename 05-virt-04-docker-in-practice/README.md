@@ -29,7 +29,7 @@ See 'snap info docker' for additional versions.
 
 ## Решение 0
 
-![0_Выполнение комманд]()
+![0_Выполнение комманд](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-04-docker-in-practice/0_%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B0%D0%BD%D0%B4.jpg)
 
 ---
 
@@ -52,7 +52,7 @@ See 'snap info docker' for additional versions.
 
 ## Решение 1
 
-![1_Выполнение комманд]()
+![1_2_Выполнение комманд](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-04-docker-in-practice/1_2%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B0%D0%BD%D0%B4.jpg)
 
 ---
 
@@ -83,8 +83,7 @@ See 'snap info docker' for additional versions.
 
 ## Решение 3
 
-![3_4Выполнение комманд]()
-
+![3_4Выполнение комманд](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-04-docker-in-practice/3_4%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B0%D0%BD%D0%B4.jpg)
 
 
 ## Задача 4
@@ -100,7 +99,7 @@ See 'snap info docker' for additional versions.
 
 https://github.com/Doskaks/shvirtd-example-python.git
 
-![4_6_Выполнение комманд]()
+![4_6_Выполнение комманд](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-04-docker-in-practice/4_6_%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B0%D0%BD%D0%B4.jpg)
 
 
 ## Задача 5 (*)
@@ -115,9 +114,9 @@ https://github.com/Doskaks/shvirtd-example-python.git
 
 ## Решение 6
 
-![6_(1)_Выполнение комманд]()
+![6_(1)_Выполнение комманд](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-04-docker-in-practice/6_(1)_%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B0%D0%BD%D0%B4.jpg)
 
-![6_(2)_Выполнение комманд]()
+![6_(2)_Выполнение комманд](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-04-docker-in-practice/6_(2)_%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B0%D0%BD%D0%B4.jpg)
 
 
 ## Задача 6.1
@@ -126,7 +125,7 @@ https://github.com/Doskaks/shvirtd-example-python.git
 
 ## Решение 6.1
 
-![6_1_Выполнение комманд]()
+![6_1_Выполнение комманд](https://github.com/Doskaks/virtd-homeworks/blob/shvirtd-1/05-virt-04-docker-in-practice/6_1_%D0%92%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B0%D0%BD%D0%B4.jpg)
 
 ## Задача 6.2 (**)
 Предложите способ извлечь файл из контейнера, используя только команду docker build и любой Dockerfile.  
